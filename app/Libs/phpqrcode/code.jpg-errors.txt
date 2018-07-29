@@ -1,0 +1,1 @@
+2017-11-06 07:37:35: imagepng(QRcode/code.jpg): failed to open stream: No such file or directory
